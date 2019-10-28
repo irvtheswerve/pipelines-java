@@ -1,4 +1,4 @@
-[![Build Status](https://irvas.visualstudio.com/BuildTestDeployCommit/_apis/build/status/irvtheswerve.pipelines-java?branchName=master)](https://irvas.visualstudio.com/BuildTestDeployCommit/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://irvas.visualstudio.com/BuildTestDeployCommit/_apis/build/status/irvtheswerve.pipelines-dotnet-core?branchName=master)](https://irvas.visualstudio.com/BuildTestDeployCommit/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
